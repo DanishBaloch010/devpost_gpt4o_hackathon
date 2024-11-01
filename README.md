@@ -1,4 +1,4 @@
-
+# Application Pictures
 ![Screenshot from 2024-11-01 03-58-33](https://github.com/user-attachments/assets/2df3ed6c-70ee-4a1f-ad08-5eaf1000f8c2)
 ![Screenshot from 2024-11-01 04-20-27](https://github.com/user-attachments/assets/fb881e4c-797b-4ab7-94bf-31c636140252)
 ![Screenshot from 2024-11-01 04-20-35](https://github.com/user-attachments/assets/facb39e7-21bc-4ec4-a69f-0a0318541c78)
@@ -11,11 +11,12 @@
 
 
 
-https://github.com/user-attachments/assets/a9fd6079-bd3b-4101-981d-ed2738633b4d
+# DEMO
+## Summarize video
+![demo_fast_video_1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f1477ffd-4baf-4252-b8ed-f8f18dae694b)
 
-
-
-https://github.com/user-attachments/assets/c7d6bafd-96ea-44f4-9f09-01c97a54df90
+## Google Summary
+![demo_fast_video_2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2d05bd7b-efe7-46c2-9034-7d6c5b7efa74)
 
 
 
